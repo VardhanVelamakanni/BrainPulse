@@ -1,0 +1,22 @@
+# Core Libraries
+numpy
+pandas
+
+# Deep Learning & Neural Networks
+tensorflow
+torch
+torchvision
+keras
+
+# Image Processing & Data Augmentation
+opencv-python
+Pillow
+albumentations # Advanced Data Augmentation
+
+# Model Evaluation & Metrics
+scikit-learn
+matplotlib
+seaborn
+
+# Utility Libraries
+tqdm # Progress bar for training
